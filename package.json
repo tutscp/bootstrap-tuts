@@ -1,0 +1,21 @@
+{
+  "name": "cp-tuts-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --hot",
+    "start:dev": "webpack --config webpack.config.js --watch"
+  },
+  "keywords": [],
+  "author": "cptuts",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
