@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:dev": "webpack --config webpack.config.js --watch",
-    "start:dev": "webpack-dev-server --config webpack.config.js --watch --hot"
+    "build:dev": "webpack --config=webpack.config.js",
+    "start:dev": "webpack-dev-server --config=webpack.config.js --hot"
   },
   "keywords": [],
   "author": "cptuts",
