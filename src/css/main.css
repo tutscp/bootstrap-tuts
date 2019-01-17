@@ -1,5 +1,5 @@
 .row > div {
   background: #f21b3f;
   color: #fff;
-  margin: 2px;
+  border: #fff 1px solid;
 }
